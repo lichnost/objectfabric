@@ -40,8 +40,8 @@
   </developers>
 
   <properties>
-    <java.version>1.6</java.version>
-    <gwt.version>2.5.0</gwt.version>
+    <java.version>1.7</java.version>
+    <gwt.version>2.7.0</gwt.version>
   </properties>
 
   <modules>
@@ -50,7 +50,7 @@
     <module>clr</module>
     <module>extensions</module>
     <module>gwt</module>
-    <module>gwt-node</module>
+    <!-- <module>gwt-node</module> -->
     <module>js</module>
     <module>jvm</module>
     <module>tools</module>

@@ -14,5 +14,6 @@
     <module>javafx</module>
     <module>netty</module>
     <module>sqlite4java</module>
+    <module>cassandra</module>
   </modules>
 </project>
